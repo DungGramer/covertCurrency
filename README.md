@@ -1,2 +1,2 @@
 # covertCurrency
-covert currency using currencyconverterapi.com
+covert currency using [https://www.currencyconverterapi.com/](currencyconverterapi.com)
